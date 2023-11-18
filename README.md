@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @meet7358
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently Data Science
-
+- 🌱 I am currently learning Data Science and Analytics.
 
 
 <!---
